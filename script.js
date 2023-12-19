@@ -1,6 +1,5 @@
 /** 
-This is a snake game I made with Vanilla Javascript.
-Follow me on twitter @fariatondo
+This is a snake game 
 **/
 let replay = document.querySelector("#replay");
 let score = document.querySelector("#score");
